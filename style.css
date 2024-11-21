@@ -1,0 +1,90 @@
+h1 {
+    color: white;
+}
+h2{
+    color: red;
+}
+body{
+    background-color: rgb(255, 215, 0);
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.gta{
+    border-style: ridge;
+    border-radius: 50px;
+    border-color: white;
+    margin: 10px 300px;
+    padding: 10px 100px;
+    background-color: rgb(94, 94, 250);
+}
+
+.button {
+    background-color: blue;
+
+}
+
+.logo {
+    position: relative;
+    padding-left: 400px;
+    width: 400px;
+    opacity: 70%;
+}
+
+.listB {
+    list-style-type: none;
+    position: relative;
+    padding: 10px;
+}
+
+.player-list { 
+    list-style-type: none;
+    padding-left: 50px;
+
+}
+
+.two {
+    position: relative;
+    right: 450px;
+}
+
+.three {
+    position: relative;
+    left: 450px;
+    bottom: 50px;
+}
+
+.imagee {
+    position: relative;
+    left: 750px;
+    bottom: 500px;
+}
+
+.star{
+position: relative;
+padding: 0px;
+width: 50px;
+left: 480px;
+bottom: 1350px;
+}
+
+
+.cart {
+    position: relative;
+    width:30px;
+    left: 100px;
+}
+
+.titree{
+    font-size: 100px;
+}
+.star {
+    position: relative;
+    width: 500px;
+    bottom: 2700px;
+    opacity: 10%;
+    
+}
